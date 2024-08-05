@@ -13,11 +13,11 @@ The "DeFi-Empire" project introduces an ERC20 token, "Dunder Mifflin" (DMI), and
 
 1. Create Avalanche Subnet
    ```bash
-   avalanche subnet create circle
+   avalanche subnet create <subnet name>
    ```
 2. Deploy Subnet
    ```bash
-   avalanche subnet deploy circle
+   avalanche subnet deploy <subnet name>
    ```
 3. Configure Metamask
 
@@ -34,5 +34,5 @@ The "DeFi-Empire" project introduces an ERC20 token, "Dunder Mifflin" (DMI), and
 
 ## Authors
 
-- Abhay Rana
-- GitHub: https://github.com/Abr-204/Defi-Empire
+- Tushar Kathuria
+- GitHub: https://github.com/tusharrrr1/ADVANCED-AVAX1/edit/main/README.md
